@@ -1,0 +1,104 @@
+body{
+  background-color:white;
+
+}
+img{
+  position: relative;
+  bottom: 1600px;
+}
+
+
+
+
+h1{
+  color: BLACK;
+  
+  font-size: 70px;
+  font-weight: bold;
+
+}
+h2{
+  color: grey;
+  font-size: 125%;
+  font-weight: bold;
+}
+h3{
+  color: #008CAD;
+  font-size: 30px;
+}
+.jayglos{
+  width: 400px;
+  height: 200px;
+position: relative;
+left: 85px;
+bottom: 220px;
+}
+.ABROAD{
+  width: 200px;
+  height: 200px;
+position: relative;
+left: 175px;
+bottom: 386px;
+}
+
+.study-abroad{
+  width: 200px;
+  height: 200px;
+position: relative;
+left: 450px;
+top: 107px;
+
+}
+.our-programs{
+  width: 200px;
+  height: 200px;
+position: relative;
+left: 680px;
+bottom: 804px;
+
+}
+.contact-us{
+  width: 200px;
+  height: 200px;
+position: relative;
+left: 913px;
+bottom: 587px;
+
+}
+.our-team{
+  width: 200px;
+  height: 200px;
+position: relative;
+left: 1100px;
+bottom: 1021px;
+
+}
+.about{
+  width: 200px;
+  height: 200px;
+position: relative;
+left: 1270px;
+bottom: 1300px;
+}
+
+
+.about-us{
+  width: 200px;
+  height: 200px;
+position: relative;
+left: 1270px;
+bottom: 1238px;
+}
+.good{
+
+  width: 1450px;
+  height: 400px;
+position: relative;
+left: 250px;
+bottom: 1980px;
+font-family: sans-serif;
+font-size: 100px;
+color: white;
+font-weight: bold;
+
+}
